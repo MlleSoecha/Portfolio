@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hors ligne - Soecha</title>
+  <style>
+    body {
+      font-family: serif;
+      background-color: #003366;
+      color: #D4AF37;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      line-height: 1.6;
+      margin-bottom: 2rem;
+    }
+    .border {
+      border: 1px solid rgba(212, 175, 55, 0.3);
+      padding: 40px;
+      position: relative;
+    }
+    .border::before {
+      content: '';
+      position: absolute;
+      top: -5px;
+      left: -5px;
+      right: -5px;
+      bottom: -5px;
+      border: 1px solid rgba(212, 175, 55, 0.1);
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="border">
+    <h1>Vous êtes hors ligne</h1>
+    <p>Il semble que vous n'ayez pas de connexion internet. Veuillez vous reconnecter pour accéder au site de Soecha.</p>
+    <p>Les pages que vous avez déjà visitées restent accessibles.</p>
+  </div>
+</body>
+</html>
+

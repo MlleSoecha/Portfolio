@@ -1,0 +1,77 @@
+{
+  "books": [
+    {
+      "id": "eveil-des-ombres",
+      "title": "L'Éveil des Ombres",
+      "slug": "eveil-des-ombres",
+      "cover": "/images/covers/eveil-des-ombres.jpg",
+      "coverPlaceholder": "/placeholder.svg?height=400&width=300",
+      "excerpt": "Un voyage introspectif à travers les méandres de l'âme humaine.",
+      "contentFile": "/content/eveil-des-ombres.md",
+      "status": "excerpt",
+      "externalLink": "https://exemple.com/livres/eveil-des-ombres",
+      "publishedAt": "2023-05-15"
+    },
+    {
+      "id": "echos-du-silence",
+      "title": "Échos du Silence",
+      "slug": "echos-du-silence",
+      "cover": "/images/covers/echos-du-silence.jpg",
+      "coverPlaceholder": "/placeholder.svg?height=400&width=300",
+      "excerpt": "Quand les non-dits deviennent plus éloquents que les mots.",
+      "contentFile": null,
+      "status": "premium",
+      "externalLink": "https://exemple.com/livres/echos-du-silence",
+      "publishedAt": "2022-11-03"
+    },
+    {
+      "id": "fragments-eternite",
+      "title": "Fragments d'Éternité",
+      "slug": "fragments-eternite",
+      "cover": "/images/covers/fragments-eternite.jpg",
+      "coverPlaceholder": "/placeholder.svg?height=400&width=300",
+      "excerpt": "Une collection de pensées sur le temps et la mémoire collective.",
+      "contentFile": "/content/fragments-eternite.md",
+      "status": "excerpt",
+      "externalLink": "https://exemple.com/livres/fragments-eternite",
+      "publishedAt": "2023-02-20"
+    },
+    {
+      "id": "sentiers-oublies",
+      "title": "Les Sentiers Oubliés",
+      "slug": "sentiers-oublies",
+      "cover": "/images/covers/sentiers-oublies.jpg",
+      "coverPlaceholder": "/placeholder.svg?height=400&width=300",
+      "excerpt": "Une exploration des chemins moins empruntés de l'existence.",
+      "contentFile": null,
+      "status": "premium",
+      "externalLink": "https://exemple.com/livres/sentiers-oublies",
+      "publishedAt": "2021-09-12"
+    },
+    {
+      "id": "resonances",
+      "title": "Résonances",
+      "slug": "resonances",
+      "cover": "/images/covers/resonances.jpg",
+      "coverPlaceholder": "/placeholder.svg?height=400&width=300",
+      "excerpt": "Comment nos actions créent des ondes qui transforment notre entourage.",
+      "contentFile": "/content/resonances.md",
+      "status": "excerpt",
+      "externalLink": "https://exemple.com/livres/resonances",
+      "publishedAt": "2022-06-30"
+    },
+    {
+      "id": "metamorphoses",
+      "title": "Métamorphoses",
+      "slug": "metamorphoses",
+      "cover": "/images/covers/metamorphoses.jpg",
+      "coverPlaceholder": "/placeholder.svg?height=400&width=300",
+      "excerpt": "Les transformations inévitables qui façonnent nos destins.",
+      "contentFile": null,
+      "status": "premium",
+      "externalLink": "https://exemple.com/livres/metamorphoses",
+      "publishedAt": "2023-08-05"
+    }
+  ]
+}
+
