@@ -165,7 +165,7 @@ export default function Home() {
                 <h1 className="font-playfair text-6xl font-bold tracking-tight sm:text-7xl xl:text-8xl/none">
                   <span className="text-gold">SOECHA</span>
                 </h1>
-                <p className="font-cormorant max-w-[600px] text-gold-light md:text-2xl italic">Candide Essis SOSSOU</p>
+                <p className="font-cormorant max-w-[600px] text-gold-light md:text-2xl italic">Candide Essi SOSSOU</p>
                 <p className="font-cormorant max-w-[600px] text-soft md:text-xl mt-4">
                   Chef projet digital · Psychologue du travail · Écrivaine
                 </p>
